@@ -353,6 +353,8 @@ plugins:
 # SEO Tag
 # ---------------------------------------------------------------------------------------
 
+# 아이콘 설정
+apple_touch_icon: /assets/img/logo3.png
 # Where you proof that you own this site (used by jekyll-seo-tag)
 # google_site_verification: <verification-id>
 # -- or --
