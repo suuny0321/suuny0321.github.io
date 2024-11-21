@@ -51,4 +51,14 @@ _zip
 /build
 
 /assets/js/*hydejack-*
-/_sass/*/__*__/*
+/_sass/*/__*__/*d
+
+# 임시 저장
+_posts/study/java/img.png
+_posts/study/java/
+# 무시할 파일 및 디렉터리
+html/
+_sass/hydejack/__inline__/
+_sass/hydejack/__link__/
+_sass/pooleparty/__inline__/
+_sass/pooleparty/__link__/
