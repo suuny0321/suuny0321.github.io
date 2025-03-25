@@ -62,3 +62,29 @@ _sass/hydejack/__inline__/
 _sass/hydejack/__link__/
 _sass/pooleparty/__inline__/
 _sass/pooleparty/__link__/
+
+# Sensitive files
+.env
+*.key
+*.pem
+*.crt
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# System files
+*.bak
+*.tmp
+*.lock
+*.log
+
+# Build artifacts
+*.tar.gz
+*.zip
+*.exe
+*.dll
+
+# Local server files
+.jekyll-cache/
+.jekyll-metadata
